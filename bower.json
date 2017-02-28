@@ -1,0 +1,21 @@
+{
+  "name": "cube-image-slider",
+  "homepage": "https://github.com/ZentoBits/cube-image-slider",
+  "authors": [
+    "Zachary George <zacharygeorge@Zacharys-MacBook-Pro.local>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "jquery.transit": "^0.9.12"
+  }
+}
