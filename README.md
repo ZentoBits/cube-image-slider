@@ -3,4 +3,4 @@
 
 Cube image slider with animations triggered upon clicking on one of the 4 image selectors.
 
-![cube-slider](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![cube-slider](https://media.giphy.com/media/xUA7aT317vC8VI00P6/giphy.gif)
