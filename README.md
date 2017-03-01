@@ -3,4 +3,4 @@
 
 Cube image slider with animations triggered upon clicking on one of the 4 image selectors.
 
-![Snapshot](https://media.giphy.com/media/xUA7aT317vC8VI00P6/giphy.gif)
+![Snapshot](https://media.giphy.com/media/l0IyhXKagPplmW5SE/giphy.gif)
